@@ -1,0 +1,1 @@
+This Python script is designed to scrape the top-voted stories from the first two pages of Hacker News (Y Combinator's news page) and sort them based on the number of votes. The script filters out stories with less than 100 votes and saves the sorted list of top stories to a file. Users can save the output to a text file.
